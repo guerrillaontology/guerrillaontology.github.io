@@ -1,6 +1,6 @@
-title: Book
-description: A simple Jekyll theme
-url: # site url
+title: Guerrilla Ontology 
+description: a blog
+url: http://guerrillaontology.org
 avatar: # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
 favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
 google_analytics: # google analytics id
@@ -16,13 +16,13 @@ disqus_shortname: # disqus_shortname for disqus comment system
 # a new whidow will be open when link is clicked.
 #
 about:
-  - paragraph: ?link?, a simple Jekyll theme. Built by ?link?
+  - paragraph: ?link?, a blog. Maintained by ?link?
     text_align: center
     links:
-      - name: Book
-        url: https://github.com/kkninjae/book
+      - name: Guerrilla Ontology
+        url: http://guerrillaontology.org
         external: true
-      - name: Lang Liu
+      - name: Scott Vranesh-Fallin
         url: http://kkninjae.com/about/
         external: false
 
